@@ -1,0 +1,7 @@
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\Generic-Delegate-Types\bin\Debug\Generic-Delegate-Types.exe.config
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\bin\Debug\Generic-Delegate-Types.exe.config
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\bin\Debug\Generic-Delegate-Types.exe
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\bin\Debug\Generic-Delegate-Types.pdb
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\obj\Debug\Generic-Delegate-Types.csprojResolveAssemblyReference.cache
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\obj\Debug\Generic-Delegate-Types.exe
+D:\GitHub\Generic-Delegate-Types\Generic-Delegate-Types\obj\Debug\Generic-Delegate-Types.pdb
